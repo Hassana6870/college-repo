@@ -4,6 +4,6 @@ Stony Brook is rated among the top 1% of universities in the world. Stony Brook 
 ### Undergraduate:Chemistry
 The Bachelor of Science Program in _Chemistry_ also known as _CHE_ is an extensive program where you will learn biological chemistry, chemical physics, and environmental chemistry.
 #### Admissions requirements for the Majors and Minor in Chemistry (CHE) and Stony Brook Generally
-Stony Brook's average sat score is <u>1304</u>.This is a moderately competitive score. The average GPA of the school is <u>3.83</u>. This GPA is extremely competitive. The admissions rate is also <u>42.2%</u>.This is a moderately competitive admissions rate.
-What's required in the admission to the school is **High School Transcript**, **Standardized Test Scores**, and **Teacher/Counselor Recommendation**. The next deadline is <u>Fall 2020, January 15</u>. Futhermore, if majoring in Chemistry you have to have a letter <u>C grade</u> or higher to pass.
+Stony Brook's average sat score is <span style="text-decoration: underline;">1304</span>.This is a moderately competitive score. The average GPA of the school is <span style="text-decoration: underline;">3.83</span>.This GPA is extremely competitive. The admissions rate is also<span style="text-decoration: underline;">42.2%</span>.This is a moderately competitive admissions rate.
+What's required in the admission to the school is **High School Transcript**, **Standardized Test Scores**, and **Teacher/Counselor Recommendation**. The next deadline is <span style="text-decoration: underline;">Fall 2020, January 15</span> . Futhermore, if majoring in Chemistry you have to have a letter <span style="text-decoration: underline;">C grade</span>  or higher to pass.
 
